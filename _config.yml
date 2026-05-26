@@ -28,7 +28,7 @@ twitter_username:
 github_username:  shireenzb9
 
 # Build settings
-theme: time machine
+theme: minima
 plugins:
   - jekyll-feed
 
